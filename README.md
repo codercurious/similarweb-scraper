@@ -1,5 +1,6 @@
 # Similarweb scraper
 Interested in using this scraper? Get it here: [Similarweb scraper](https://apify.com/curious_coder/similarweb-scraper?fpr=ve081&fp_sid=github_similarweb-scraper)
+
 SimilarWeb Data Scraper is a powerful Apify actor designed to extract valuable insights from SimilarWeb.com for a given list of websites. 
 
 SimilarWeb is a renowned web analytics platform that provides comprehensive data about website traffic, audience demographics, referral sources, and more. 
